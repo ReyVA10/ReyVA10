@@ -1,4 +1,3 @@
-<imagen presentacion.png> 
 - Mtra. Reyna Vázquez Arriaga.
 - Docente de Inglés en la Escuela de Lenguas Tapachula.
 - Tengo 17 años trabajando como Docente de Ingles.
