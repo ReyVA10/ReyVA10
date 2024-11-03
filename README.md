@@ -1,4 +1,4 @@
-<imagen-PRESENTACION.png>
+<imagenPRESENTACION.png>
 
 
 
