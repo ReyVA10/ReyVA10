@@ -1,6 +1,3 @@
-<imagen/presentacion.png>
-
-
 
 
 - Mtra. Reyna Vázquez Arriaga
